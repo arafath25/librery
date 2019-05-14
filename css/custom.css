@@ -1,0 +1,23 @@
+.sologun{
+    background-color: gray;
+    color: white;
+    font-weight: 700;
+    font-family: sans-serif;
+    height: 40px;
+    line-height: 40px;
+}
+.btn{
+    margin-right: 5px !important;
+}
+.search-btn{
+    margin-right: 5px !important;
+}
+.nav-link{
+    color: white !important;
+}
+.big{
+
+    height: 1500px;
+    width: 100%;
+    background-color: brown;
+}
